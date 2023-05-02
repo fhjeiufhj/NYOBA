@@ -7,7 +7,7 @@ getgenv().timeuntilitemcheck = 20 --how much to wait until it checks if you got 
 getgenv().WhatToFarm = {
     ["Lucky Arrow"] = true,
     ["Lucky Stone Mask"] = true,
-    ["Rokakaka"] = true,
+    ["Rokakaka"] = false,
     ["Pure Rokakaka"] = true,
     ["Diamond"] = true,
     ["DEO's Diary"] = true,
@@ -18,7 +18,7 @@ getgenv().WhatToFarm = {
     ["Quinton's Glove"] = true,
     ["Ancient Scroll"] = true,
     ["Zepellin's Headband"] = true,
-    ["Mysterious Arrow"] = true
+    ["Mysterious Arrow"] = false
 }
  
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NukeVsCity/hackbloxfruits/main/hop"))()
