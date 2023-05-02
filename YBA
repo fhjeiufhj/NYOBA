@@ -1,4 +1,4 @@
-_G.WebhookLucky = ""   --webhook for lucky notifier
+_G.WebhookLucky = "https://discord.com/api/webhooks/1102866859138756608/73x-Fws_QwtIWWRb0AL5l_4Tf-2yAmYK8kaf874MO7bHtYLkiRfRAvZYMFryUpEo5nZy"   --webhook for lucky notifier
  
 --script was recently updated
 
